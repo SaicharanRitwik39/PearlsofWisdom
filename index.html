@@ -8,7 +8,7 @@
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-            margin-top: 20%;
+            margin-top: 5%;
         }
         #quote {
             font-size: 1.5em;
@@ -23,12 +23,36 @@
             padding: 10px 20px;
             font-size: 1em;
         }
+        #introduction {
+            display: none;
+            margin: 20px;
+            font-size: 1.1em;
+        }
+        #credits {
+            margin-top: 50px;
+            font-size: 0.9em;
+            color: #555;
+        }
     </style>
 </head>
 <body>
+    <h1>Thirukkural Quote Generator</h1>
+    <button onclick="toggleIntroduction()">Toggle Introduction</button>
+    <div id="introduction">
+        <p><strong>About Thirukkural</strong></p>
+        <p>The <em>Thirukkural</em>, composed over 2,000 years ago, is one of the most significant and timeless works of Tamil literature. Written in a classical form of Tamil, it consists of 1,330 couplets systematically organized into 133 chapters, with each chapter containing 10 couplets. The couplets are divided into three parts: <em>Virtue</em> (Aram), <em>Wealth</em> (Porul), and <em>Love</em> (Inbam), covering various aspects of life, including ethics, statecraft, and human relationships.</p>
+        <p>The following quotes are extracted from the <em>Thirukkural</em>, and I will continue to add more as I explore this remarkable work further.</p>
+    </div>
     <div id="quote">Click the button to get a quote!</div>
     <div id="meaning"></div>
     <button onclick="displayQuote()">Get Quote</button>
+    <div id="credits">Made by Saicharan Ritwik Chinni</div>
     <script src="script.js"></script>
+    <script>
+        function toggleIntroduction() {
+            const intro = document.getElementById('introduction');
+            intro.style.display = intro.style.display === 'none' ? 'block' : 'none';
+        }
+    </script>
 </body>
 </html>
