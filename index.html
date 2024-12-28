@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thirukkural - Pearls of Inspiration</title>
+    <link rel="stylesheet" href="style.css">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -23,13 +24,19 @@
             padding: 10px 20px;
             font-size: 1em;
         }
-        #introduction {
-            margin: 20px;
-            font-size: 1.1em;
-        }
         #divider {
             margin: 30px 0;
             border-top: 1px solid #ccc;
+        }
+        #friend-quote-section {
+            font-size: 0.9em;
+            margin: 30px auto;
+            padding: 15px;
+            max-width: 80%;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            color: #555;
         }
         #credits {
             margin-top: 50px;
@@ -46,10 +53,34 @@
         <p>The following quotes are extracted from the <em>Thirukkural</em>, and I will continue to add more as I explore this remarkable work further.</p>
     </div>
     <div id="divider"></div>
-    <div id="quote">Click the button to get a quote!</div>
-    <div id="meaning"></div>
-    <button onclick="displayQuote()">Get Quote</button>
-    <div id="credits">Made by Saicharan Ritwik Chinni</div>
+<div id="quote-section">
+    <p id="quote" style="font-size: 1.8em; font-style: italic; color: #2c3e50; margin-bottom: 20px;">
+        Click the button to reveal a pearl of inspiration!
+    </p>
+    <div id="meaning" style="font-size: 1.2em; color: #7f8c8d; margin: 20px auto; max-width: 80%;"></div>
+    <button onclick="displayQuote()" style="padding: 12px 25px; font-size: 1.1em; background-color: #3498db; color: #fff; border: none; border-radius: 5px; cursor: pointer; transition: background-color 0.3s;">
+        Get Quote
+    </button>
+</div>
+<div id="divider"></div>
+
+
+
+    <div id="friend-quote-section">
+        <p><strong>Bonus Pearl of Inspiration</strong></p>
+        <blockquote>
+            <p><em>Like tortoise, who the five restrains<br>In one, through seven world bliss obtains.</em></p>
+        </blockquote>
+        <p>
+            <small><strong>Meaning:</strong> By controlling one's five senses in the current life, like a tortoise retracting its limbs; one secures spiritual well-being and protection across all the seven lives.</small>
+        </p>
+        <p>
+            <small>Contributed by <a href="https://www.linkedin.com/in/ritwika-nandi-620646326/" target="_blank" style="color: #0077b5; text-decoration: none;"><strong>Ritwika</strong></a></small>
+        </p>
+    </div>
+    
+
+    <div id="credits">© Copyright 2024 Saicharan Ritwik Chinni</div>
     <script src="script.js"></script>
 </body>
 </html>

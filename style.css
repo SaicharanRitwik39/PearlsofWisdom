@@ -1,0 +1,99 @@
+/* General Styling */
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff; /* Soft pastel blue */
+    color: #2c3e50; /* Dark slate gray for text */
+}
+
+/* Header */
+h1 {
+    font-size: 2.5em;
+    color: #2c3e50;
+    margin-top: 20px;
+}
+
+/* Introduction Section */
+#introduction {
+    margin: 20px auto;
+    font-size: 1.1em;
+    max-width: 80%;
+    background-color: #ffffff; /* White background for focus */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    color: #2c3e50;
+}
+
+/* Quote Section */
+#quote {
+    font-size: 1.8em;
+    font-style: italic;
+    color: #34495e; /* Muted dark blue-gray */
+    margin-bottom: 20px;
+}
+
+#meaning {
+    font-size: 1.2em;
+    color: #7f8c8d; /* Subtle gray for meaning */
+    margin: 20px auto;
+    max-width: 80%;
+}
+
+/* Button Styling */
+button {
+    padding: 12px 25px;
+    font-size: 1.1em;
+    background-color: #ffcb6b; /* Gold accent */
+    color: #2c3e50; /* Contrast for readability */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background-color: #f0b429; /* Slightly darker gold */
+    transform: translateY(-2px); /* Subtle lift effect */
+}
+
+/* Divider */
+#divider {
+    margin: 30px 0;
+    border-top: 1px solid #bdc3c7; /* Light gray divider */
+}
+
+/* Friend's Quote Section */
+#friend-quote-section {
+    font-size: 0.9em;
+    margin: 30px auto;
+    padding: 15px;
+    max-width: 80%;
+    background-color: #ffffff; /* Clean white background */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    color: #555;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer */
+#credits {
+    margin-top: 50px;
+    font-size: 0.9em;
+    color: #95a5a6; /* Muted gray for subtle footer text */
+}
+
+/* Links */
+a {
+    color: #3498db; /* Modern blue for links */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2980b9; /* Slightly darker blue for hover effect */
+    text-decoration: underline;
+}
