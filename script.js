@@ -22,6 +22,9 @@ const quotes = [
     { text: "Vast sea of births can be crossed By those who clasp God\'s feet.", meaning: "Only those who surrender to the feet of God can overcome the sufferings of births."},
 
     //Excellence of Rain.
+    { text: "As the unfailing rain sustains the world It is deemed a divine food.", meaning: "As the unfailing rain supports the world, it is considered a heavenly food."},
+    { text: "Rain produces food for all beings in the world And rain itself serves as food indeed.", meaning: "Rain produces food for all living beings and the rain itself forms part of their food."},
+    { text: "The vast ocean-bound earth suffers From famine if the sky fails.", meaning: "If it fails to rain, the world surrounded by the vast oceans will be in hunger and distress."}
 ];
 
 function displayQuote() {
