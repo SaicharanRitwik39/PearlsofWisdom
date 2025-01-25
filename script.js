@@ -27,7 +27,14 @@ const quotes = [
     { text: "The vast ocean-bound earth suffers From famine if the sky fails.", meaning: "If it fails to rain, the world surrounded by the vast oceans will be in hunger and distress."},
     { text: "Tillers won\'t plough and toil If the rain is not genial.", meaning: "If there is no sufficient rain, the farmers will not plough the land."},
     { text: "It is rain that ruins and again it is rain That lifts the ruined to gain.", meaning: "It is the rain that ruins people. It is also the rain that lifts the ruined people."},
-    { text: "Not a blade of grass will be seen If the sky showers no rain.", meaning: "There will not be any vegetation on this earth if there is no rain."}
+    { text: "Not a blade of grass will be seen If the sky showers no rain.", meaning: "There will not be any vegetation on this earth if there is no rain."},
+    { text: "Even the boundless sea will shrink in nature If the rainy clouds fail to shower.", meaning: "Even the vast ocean on this earth will shrink in its nature if there is no rain."},
+    { text: "If the sky dries up, rites and festivals Won\'t be there even for gods.", meaning: "When it fails to rain, there will be no festivals and rituals even to gods."},
+    { text: "Charity and penance will disappear If the sky above fails to deliver.", meaning: "There will be neither generosity nor penance in the world, if it fails to rain."},
+    { text: "Without water life cannot sustain Nor can virtue without rain.", meaning: "Life cannot exist without water in this world. Similarly, virtue cannot exist without rain."}
+
+    //Greatness of Ascetics.
+    
 ];
 
 function displayQuote() {
