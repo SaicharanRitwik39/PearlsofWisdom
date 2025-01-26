@@ -34,6 +34,9 @@ const quotes = [
     { text: "Without water life cannot sustain Nor can virtue without rain.", meaning: "Life cannot exist without water in this world. Similarly, virtue cannot exist without rain."}
 
     //Greatness of Ascetics.
+    { text: "Scriptures praise the excellence of ascetics Abiding by all in moral books.", meaning: "Greatness of virtuous men who have renounced the world is held in high esteem in moral books."},
+    { text: "Measuring the greatness of ascetics Is like counting the dead ones.", meaning: "Greatness of ascetics is immeasurable. Measuring it is as impossible as counting the dead."},
+    { text: "Who discern both and renounce the world alone In this world brightly shine.", meaning: "Those who analyse both good and bad and give up worldly life alone are great."}
     
 ];
 
