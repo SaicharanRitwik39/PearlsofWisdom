@@ -31,7 +31,7 @@ const quotes = [
     { text: "Even the boundless sea will shrink in nature If the rainy clouds fail to shower.", meaning: "Even the vast ocean on this earth will shrink in its nature if there is no rain."},
     { text: "If the sky dries up, rites and festivals Won\'t be there even for gods.", meaning: "When it fails to rain, there will be no festivals and rituals even to gods."},
     { text: "Charity and penance will disappear If the sky above fails to deliver.", meaning: "There will be neither generosity nor penance in the world, if it fails to rain."},
-    { text: "Without water life cannot sustain Nor can virtue without rain.", meaning: "Life cannot exist without water in this world. Similarly, virtue cannot exist without rain."}
+    { text: "Without water life cannot sustain Nor can virtue without rain.", meaning: "Life cannot exist without water in this world. Similarly, virtue cannot exist without rain."},
 
     //Greatness of Ascetics.
     { text: "Scriptures praise the excellence of ascetics Abiding by all in moral books.", meaning: "Greatness of virtuous men who have renounced the world is held in high esteem in moral books."},
