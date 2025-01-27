@@ -36,7 +36,11 @@ const quotes = [
     //Greatness of Ascetics.
     { text: "Scriptures praise the excellence of ascetics Abiding by all in moral books.", meaning: "Greatness of virtuous men who have renounced the world is held in high esteem in moral books."},
     { text: "Measuring the greatness of ascetics Is like counting the dead ones.", meaning: "Greatness of ascetics is immeasurable. Measuring it is as impossible as counting the dead."},
-    { text: "Who discern both and renounce the world alone In this world brightly shine.", meaning: "Those who analyse both good and bad and give up worldly life alone are great."}
+    { text: "Who discern both and renounce the world alone In this world brightly shine.", meaning: "Those who analyse both good and bad and give up worldly life alone are great."},
+    { text: "Who by wisdom controls five senses Is a seed of heavenly joys.", meaning: "He who controls all his five senses by wisdom is a seed of heavenly bliss."},
+    { text: "To a man who has curbed his five senses Indra is a witness to his powers.", meaning: "Indra, the celestial king, is a witness to the might of a man who has conquered his five senses."},
+    { text: "The great ever perform rarer deeds The mean can\'t do such deeds.", meaning: "The great do extraordinary things but the petty-minded can never do such things."},
+    { text: "The world belongs to those who quell Taste, sight, touch, sound and smell.", meaning: "Those who have complete control over their five senses gain the whole world."}
     
 ];
 
