@@ -40,7 +40,12 @@ const quotes = [
     { text: "Who by wisdom controls five senses Is a seed of heavenly joys.", meaning: "He who controls all his five senses by wisdom is a seed of heavenly bliss."},
     { text: "To a man who has curbed his five senses Indra is a witness to his powers.", meaning: "Indra, the celestial king, is a witness to the might of a man who has conquered his five senses."},
     { text: "The great ever perform rarer deeds The mean can\'t do such deeds.", meaning: "The great do extraordinary things but the petty-minded can never do such things."},
-    { text: "The world belongs to those who quell Taste, sight, touch, sound and smell.", meaning: "Those who have complete control over their five senses gain the whole world."}
+    { text: "The world belongs to those who quell Taste, sight, touch, sound and smell.", meaning: "Those who have complete control over their five senses gain the whole world."},
+    { text: "The glory of the learned is amply revealed In the scriptures of their land indeed.", meaning: "Greatness of the learned men is shown in the scriptures of the world."},
+    { text: "The ire of those on the mount of good Tho\' brief, can never be endured.", meaning: "One cannot endure the anger of good men though it is momentary."},
+    { text: "The priests are the virtuous ones Who show mercy to all beings.", meaning: "The holy people are the virtuous who show compassion to one and all."},
+
+    //Insistence on Virtue.
     
 ];
 
