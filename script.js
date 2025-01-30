@@ -49,7 +49,10 @@ const quotes = [
     { text: "Fame and wealth are bestowed by virtue What better gain can there be for you?", meaning: "Virtue gives fame and prosperity. There is no greater gain than this."},
     { text: "Nothing is greater than virtue to one\'s soul Forgetting the same is the worst evil.", meaning: "There is no greater gain than virtue. Forgetting the same brings ruin."},
     { text: "Always practise virtue in all possible ways And at all possible places.", meaning: "One should always perform righteous deeds in all possible ways and at all possible places."},
-    { text: "In spotless mind alone virtue is found Not in the pomp and idle sound.", meaning: "Virtue is found only in the spotless mind but not in pomp and show."}
+    { text: "In spotless mind alone virtue is found Not in the pomp and idle sound.", meaning: "Virtue is found only in the spotless mind but not in pomp and show."},
+    { text: "Envy, greed, wrath and evil words - It\'s virtue to shun these ills.", meaning: "Avoiding the four evils such as envy, greed, anger and harsh words is a great virtue."},
+    { text: "Always practice virtue; delay it not In death it\s a prop that fails not.", meaning: "One should not postpone doing good which is an indestructible support at the hour of death."},
+    { text: "The palanquin-bearers and the rider surely Show the fruits of their virtue openly.", meaning: "The men bearing the palanquin and the man in it are reaping rewards of their past deeds."}
     
 ];
 
