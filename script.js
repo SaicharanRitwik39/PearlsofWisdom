@@ -52,7 +52,12 @@ const quotes = [
     { text: "In spotless mind alone virtue is found Not in the pomp and idle sound.", meaning: "Virtue is found only in the spotless mind but not in pomp and show."},
     { text: "Envy, greed, wrath and evil words - It\'s virtue to shun these ills.", meaning: "Avoiding the four evils such as envy, greed, anger and harsh words is a great virtue."},
     { text: "Always practice virtue; delay it not In death it\s a prop that fails not.", meaning: "One should not postpone doing good which is an indestructible support at the hour of death."},
-    { text: "The palanquin-bearers and the rider surely Show the fruits of their virtue openly.", meaning: "The men bearing the palanquin and the man in it are reaping rewards of their past deeds."}
+    { text: "The palanquin-bearers and the rider surely Show the fruits of their virtue openly.", meaning: "The men bearing the palanquin and the man in it are reaping rewards of their past deeds."},
+    { text: "The act of doing good deeds again and again Block rebirths like a stone.", meaning: "One\'s continuous good deeds serve as a stone blocking the chain of rebirths."},
+    { text: "Real joy springs from virtue alone; all other joys Are painful and devoid of praise.", meaning: "Virtue alone gives real pleasure. Other pleasures are without fame."},
+    { text: "The only thing to do is virtuous deeds The thing to avoid is vicious deeds.", meaning: "One must do only acts of virtue and always avoid doing evil deeds."}
+
+    //Domestic Life.
     
 ];
 
