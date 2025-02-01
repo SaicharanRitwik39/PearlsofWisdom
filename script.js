@@ -55,9 +55,12 @@ const quotes = [
     { text: "The palanquin-bearers and the rider surely Show the fruits of their virtue openly.", meaning: "The men bearing the palanquin and the man in it are reaping rewards of their past deeds."},
     { text: "The act of doing good deeds again and again Block rebirths like a stone.", meaning: "One\'s continuous good deeds serve as a stone blocking the chain of rebirths."},
     { text: "Real joy springs from virtue alone; all other joys Are painful and devoid of praise.", meaning: "Virtue alone gives real pleasure. Other pleasures are without fame."},
-    { text: "The only thing to do is virtuous deeds The thing to avoid is vicious deeds.", meaning: "One must do only acts of virtue and always avoid doing evil deeds."}
+    { text: "The only thing to do is virtuous deeds The thing to avoid is vicious deeds.", meaning: "One must do only acts of virtue and always avoid doing evil deeds."},
 
     //Domestic Life.
+    { text: "A man leading a domestic life is he Who supports the virtuous three.", meaning: "A good family man is one who supports his parents, wife and children."},
+    { text: "To the ascetics, the poor and the desolate The family man is a support.", meaning: "The family man is a support to the ascetics, the needy and the deserted."},
+    { text: "Ancestors, god, self, kindred and guests Are a family man\'s chief interests.", meaning: "Forefathers, god, himself, relatives and guest are the prime concerns of a family man."}
     
 ];
 
