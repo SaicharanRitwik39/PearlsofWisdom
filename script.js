@@ -60,7 +60,10 @@ const quotes = [
     //Domestic Life.
     { text: "A man leading a domestic life is he Who supports the virtuous three.", meaning: "A good family man is one who supports his parents, wife and children."},
     { text: "To the ascetics, the poor and the desolate The family man is a support.", meaning: "The family man is a support to the ascetics, the needy and the deserted."},
-    { text: "Ancestors, god, self, kindred and guests Are a family man\'s chief interests.", meaning: "Forefathers, god, himself, relatives and guest are the prime concerns of a family man."}
+    { text: "Ancestors, god, self, kindred and guests Are a family man\'s chief interests.", meaning: "Forefathers, god, himself, relatives and guest are the prime concerns of a family man."},
+    { text: "Progeny of those who shun evil and share Their food ever prosper.", meaning: "If the family men avoid evils and share food with others, their descendants will ever prosper."},
+    { text: "If domestic life has love and virtue There will be grace and gain true.", meaning: "There will be grace and gift if family life is rooted in love and virtue."},
+    { text: "What does he gain by resorting to ascetic life When he leads a virtuous family life?", meaning: "When a person leads a domestic life, he need not aspire for ascetic life."}
     
 ];
 
