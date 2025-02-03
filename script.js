@@ -63,7 +63,11 @@ const quotes = [
     { text: "Ancestors, god, self, kindred and guests Are a family man\'s chief interests.", meaning: "Forefathers, god, himself, relatives and guest are the prime concerns of a family man."},
     { text: "Progeny of those who shun evil and share Their food ever prosper.", meaning: "If the family men avoid evils and share food with others, their descendants will ever prosper."},
     { text: "If domestic life has love and virtue There will be grace and gain true.", meaning: "There will be grace and gift if family life is rooted in love and virtue."},
-    { text: "What does he gain by resorting to ascetic life When he leads a virtuous family life?", meaning: "When a person leads a domestic life, he need not aspire for ascetic life."}
+    { text: "What does he gain by resorting to ascetic life When he leads a virtuous family life?", meaning: "When a person leads a domestic life, he need not aspire for ascetic life."},
+    { text: "Who is virtuous in domestic life is the greatest Of all who strive for a superior state.", meaning: "One who leads a virtuous domestic life is the greatest among all trying for a superior state."},
+    { text: "Guiding others leading a virtuous domestic life Is greater than the ascetic life.", meaning: "Leading a virtuous family life and guiding others is greater than the life of penance."},
+    { text: "Domestic life is a virtue, especially If it is pursued blamelessly.", meaning: "Domestic life itself is a great virtue if it is really without any blame."},
+    { text: "Who leads an ideal life on this earth Is a man of divine worth.", meaning: "One who leads an ideal domestic life is considered one among the gods in heaven."}
     
 ];
 
