@@ -67,7 +67,13 @@ const quotes = [
     { text: "Who is virtuous in domestic life is the greatest Of all who strive for a superior state.", meaning: "One who leads a virtuous domestic life is the greatest among all trying for a superior state."},
     { text: "Guiding others leading a virtuous domestic life Is greater than the ascetic life.", meaning: "Leading a virtuous family life and guiding others is greater than the life of penance."},
     { text: "Domestic life is a virtue, especially If it is pursued blamelessly.", meaning: "Domestic life itself is a great virtue if it is really without any blame."},
-    { text: "Who leads an ideal life on this earth Is a man of divine worth.", meaning: "One who leads an ideal domestic life is considered one among the gods in heaven."}
+    { text: "Who leads an ideal life on this earth Is a man of divine worth.", meaning: "One who leads an ideal domestic life is considered one among the gods in heaven."},
+
+    //Worthy Children.
+    { text: "Of all blessings we know nothing is greater Than begetting children wiser.", meaning: "There can be no better wealth than having good and intelligent children."},
+    { text: "In all the seven births evil never touches one With noble and blameless children.", meaning: "In all the seven births, no evil will affect a person who has virtuous children."},
+    { text: "Children are the real asset to the parents And they are the fruits of their acts.", meaning: "Children are parents\' real wealth. The worth of good children is the result of parents\' own deeds."}
+
     
 ];
 
