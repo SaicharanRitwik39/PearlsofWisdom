@@ -72,7 +72,10 @@ const quotes = [
     //Worthy Children.
     { text: "Of all blessings we know nothing is greater Than begetting children wiser.", meaning: "There can be no better wealth than having good and intelligent children."},
     { text: "In all the seven births evil never touches one With noble and blameless children.", meaning: "In all the seven births, no evil will affect a person who has virtuous children."},
-    { text: "Children are the real asset to the parents And they are the fruits of their acts.", meaning: "Children are parents\' real wealth. The worth of good children is the result of parents\' own deeds."}
+    { text: "Children are the real asset to the parents And they are the fruits of their acts.", meaning: "Children are parents\' real wealth. The worth of good children is the result of parents\' own deeds."},
+    { text: "Food messed up by the hands of one\'s children Is far sweeter than nectar divine.", meaning: "Food messed up by the hands of one\'s children is sweeter than the divine nectar."},
+    { text: "The touch of one'\s children thrills the body To ears their words are sweet melody.", meaning: "The touch of one's children and their sweet words delight their parents."},
+    { text: "Who have not heard their babies\' babble Say flute and lute are delightful.", meaning: "Only those who have not heard the lisping of their children say that flute and lute are enchanting."}
 
     
 ];
