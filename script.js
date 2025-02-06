@@ -75,7 +75,13 @@ const quotes = [
     { text: "Children are the real asset to the parents And they are the fruits of their acts.", meaning: "Children are parents\' real wealth. The worth of good children is the result of parents\' own deeds."},
     { text: "Food messed up by the hands of one\'s children Is far sweeter than nectar divine.", meaning: "Food messed up by the hands of one\'s children is sweeter than the divine nectar."},
     { text: "The touch of one'\s children thrills the body To ears their words are sweet melody.", meaning: "The touch of one's children and their sweet words delight their parents."},
-    { text: "Who have not heard their babies\' babble Say flute and lute are delightful.", meaning: "Only those who have not heard the lisping of their children say that flute and lute are enchanting."}
+    { text: "Who have not heard their babies\' babble Say flute and lute are delightful.", meaning: "Only those who have not heard the lisping of their children say that flute and lute are enchanting."},
+    { text: "Father'\s responsibility to his son lies In placing him ahead of scholars.", meaning: "The duty of a father to his son is to make him gain the foremost place among the wise."},
+    { text: "Children wiser than parents give pleasures To all the wordly beings.", meaning: "Children wiser than their parents give delight to all beings in the world."},
+    { text: "Mother rejoices indeed at her son\'s birth But even more so on hearing his worth.", meaning: "Mother rejoices at the birth of her son; but even more so when he is praised as a noble man."},
+    { text: "Son\'s duty to father is to make others wonder What penance got such a son to the father?", meaning: "The duty of a son is to conduct himself so well as to bring honour to his father."}
+
+    //Possession of Love.
 
     
 ];
