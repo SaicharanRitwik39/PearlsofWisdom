@@ -79,7 +79,7 @@ const quotes = [
     { text: "Father'\s responsibility to his son lies In placing him ahead of scholars.", meaning: "The duty of a father to his son is to make him gain the foremost place among the wise."},
     { text: "Children wiser than parents give pleasures To all the wordly beings.", meaning: "Children wiser than their parents give delight to all beings in the world."},
     { text: "Mother rejoices indeed at her son\'s birth But even more so on hearing his worth.", meaning: "Mother rejoices at the birth of her son; but even more so when he is praised as a noble man."},
-    { text: "Son\'s duty to father is to make others wonder What penance got such a son to the father?", meaning: "The duty of a son is to conduct himself so well as to bring honour to his father."}
+    { text: "Son\'s duty to father is to make others wonder What penance got such a son to the father?", meaning: "The duty of a son is to conduct himself so well as to bring honour to his father."},
 
     //Possession of Love.
     { text: "Is there any bolt to shut the doors of love? Tears of the loved ones reveal the love.", meaning: "True love can never be hidden. It is revealed through the tears of the loved ones."},
