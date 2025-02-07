@@ -82,7 +82,9 @@ const quotes = [
     { text: "Son\'s duty to father is to make others wonder What penance got such a son to the father?", meaning: "The duty of a son is to conduct himself so well as to bring honour to his father."}
 
     //Possession of Love.
-
+    { text: "Is there any bolt to shut the doors of love? Tears of the loved ones reveal the love.", meaning: "True love can never be hidden. It is revealed through the tears of the loved ones."},
+    { text: "The loveless grab all for themselves The loving give even their bones.", meaning: "The loveless are selfish but the loving render their service even risking their life."},
+    { text: "The association of the soul and the body Is the fruit of the life of love only.", meaning: "The relationship between the body and the soul is the result of benevolent life."}
     
 ];
 
