@@ -84,7 +84,10 @@ const quotes = [
     //Possession of Love.
     { text: "Is there any bolt to shut the doors of love? Tears of the loved ones reveal the love.", meaning: "True love can never be hidden. It is revealed through the tears of the loved ones."},
     { text: "The loveless grab all for themselves The loving give even their bones.", meaning: "The loveless are selfish but the loving render their service even risking their life."},
-    { text: "The association of the soul and the body Is the fruit of the life of love only.", meaning: "The relationship between the body and the soul is the result of benevolent life."}
+    { text: "The association of the soul and the body Is the fruit of the life of love only.", meaning: "The relationship between the body and the soul is the result of benevolent life."},
+    { text: "Love begets the life of love for others And amity of excellence it yields.", meaning: "From love always springs affection and that gives excellent friendship."},
+    { text: "Joy on earth and bliss in heaven above Are the fruits of domestic life of love.", meaning: "Joy on earth and bliss in heaven are certainly the fruits of life of love."},
+    { text: "\'Love helps only virtue\', say the unwise It also guards us from all evils. ", meaning: "The ignorant say that love helps virtue alone but it also guards us against all evils."}
     
 ];
 
