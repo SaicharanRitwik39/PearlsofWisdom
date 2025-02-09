@@ -9,7 +9,7 @@ const quotes = [
     { text: "The world its course maintains through life that rain unfailing gives; Thus rain is known the true ambrosial food of all that lives.", meaning: "By the continuance of rain the world is preserved in existence; it is therefore worthy to be called ambrosia." },
     { text: "The men who nought deny, but know what's due, before their face To stand as suppliants affords especial grace.", meaning: "There is even a beauty in standing before and begging of those who are liberal in their gifts and understand their duty to beggars." },
 
-    // Glory of God.
+    //1. Glory of God.
     { text: "\'A\' is the beginning of all alphabets, God is the origin of the universe", meaning: "\'A\' is the first of all letters. Likewise, God is the beginning of all the worlds."},
     { text: "Of what use is learning if it fails to lead To the holy feet of all-knowing God?", meaning: "Learning is of no use if the learner does not submit himself to God."},
     { text: "Who clasp the feet of God in flowery mind Live long in this earthly abode.", meaning: "Those who submit themselves to the sacred feet of God live long in this world."},
@@ -21,7 +21,7 @@ const quotes = [
     { text: "Who bows not at the feet of eight-virtued God Has his head in vain like senses palsied.", meaning: "The head that does not worship the feet of God, who has eight virtues, is useless."},
     { text: "Vast sea of births can be crossed By those who clasp God\'s feet.", meaning: "Only those who surrender to the feet of God can overcome the sufferings of births."},
 
-    //Excellence of Rain.
+    //2. Excellence of Rain.
     { text: "As the unfailing rain sustains the world It is deemed a divine food.", meaning: "As the unfailing rain supports the world, it is considered a heavenly food."},
     { text: "Rain produces food for all beings in the world And rain itself serves as food indeed.", meaning: "Rain produces food for all living beings and the rain itself forms part of their food."},
     { text: "The vast ocean-bound earth suffers From famine if the sky fails.", meaning: "If it fails to rain, the world surrounded by the vast oceans will be in hunger and distress."},
@@ -33,7 +33,7 @@ const quotes = [
     { text: "Charity and penance will disappear If the sky above fails to deliver.", meaning: "There will be neither generosity nor penance in the world, if it fails to rain."},
     { text: "Without water life cannot sustain Nor can virtue without rain.", meaning: "Life cannot exist without water in this world. Similarly, virtue cannot exist without rain."},
 
-    //Greatness of Ascetics.
+    //3. Greatness of Ascetics.
     { text: "Scriptures praise the excellence of ascetics Abiding by all in moral books.", meaning: "Greatness of virtuous men who have renounced the world is held in high esteem in moral books."},
     { text: "Measuring the greatness of ascetics Is like counting the dead ones.", meaning: "Greatness of ascetics is immeasurable. Measuring it is as impossible as counting the dead."},
     { text: "Who discern both and renounce the world alone In this world brightly shine.", meaning: "Those who analyse both good and bad and give up worldly life alone are great."},
@@ -45,7 +45,7 @@ const quotes = [
     { text: "The ire of those on the mount of good Tho\' brief, can never be endured.", meaning: "One cannot endure the anger of good men though it is momentary."},
     { text: "The priests are the virtuous ones Who show mercy to all beings.", meaning: "The holy people are the virtuous who show compassion to one and all."},
 
-    //Insistence on Virtue.
+    //4. Insistence on Virtue.
     { text: "Fame and wealth are bestowed by virtue What better gain can there be for you?", meaning: "Virtue gives fame and prosperity. There is no greater gain than this."},
     { text: "Nothing is greater than virtue to one\'s soul Forgetting the same is the worst evil.", meaning: "There is no greater gain than virtue. Forgetting the same brings ruin."},
     { text: "Always practise virtue in all possible ways And at all possible places.", meaning: "One should always perform righteous deeds in all possible ways and at all possible places."},
@@ -57,7 +57,7 @@ const quotes = [
     { text: "Real joy springs from virtue alone; all other joys Are painful and devoid of praise.", meaning: "Virtue alone gives real pleasure. Other pleasures are without fame."},
     { text: "The only thing to do is virtuous deeds The thing to avoid is vicious deeds.", meaning: "One must do only acts of virtue and always avoid doing evil deeds."},
 
-    //Domestic Life.
+    //5. Domestic Life.
     { text: "A man leading a domestic life is he Who supports the virtuous three.", meaning: "A good family man is one who supports his parents, wife and children."},
     { text: "To the ascetics, the poor and the desolate The family man is a support.", meaning: "The family man is a support to the ascetics, the needy and the deserted."},
     { text: "Ancestors, god, self, kindred and guests Are a family man\'s chief interests.", meaning: "Forefathers, god, himself, relatives and guest are the prime concerns of a family man."},
@@ -69,7 +69,7 @@ const quotes = [
     { text: "Domestic life is a virtue, especially If it is pursued blamelessly.", meaning: "Domestic life itself is a great virtue if it is really without any blame."},
     { text: "Who leads an ideal life on this earth Is a man of divine worth.", meaning: "One who leads an ideal domestic life is considered one among the gods in heaven."},
 
-    //Worthy Children.
+    //7. Worthy Children.
     { text: "Of all blessings we know nothing is greater Than begetting children wiser.", meaning: "There can be no better wealth than having good and intelligent children."},
     { text: "In all the seven births evil never touches one With noble and blameless children.", meaning: "In all the seven births, no evil will affect a person who has virtuous children."},
     { text: "Children are the real asset to the parents And they are the fruits of their acts.", meaning: "Children are parents\' real wealth. The worth of good children is the result of parents\' own deeds."},
@@ -81,13 +81,19 @@ const quotes = [
     { text: "Mother rejoices indeed at her son\'s birth But even more so on hearing his worth.", meaning: "Mother rejoices at the birth of her son; but even more so when he is praised as a noble man."},
     { text: "Son\'s duty to father is to make others wonder What penance got such a son to the father?", meaning: "The duty of a son is to conduct himself so well as to bring honour to his father."},
 
-    //Possession of Love.
+    //8. Possession of Love.
     { text: "Is there any bolt to shut the doors of love? Tears of the loved ones reveal the love.", meaning: "True love can never be hidden. It is revealed through the tears of the loved ones."},
     { text: "The loveless grab all for themselves The loving give even their bones.", meaning: "The loveless are selfish but the loving render their service even risking their life."},
     { text: "The association of the soul and the body Is the fruit of the life of love only.", meaning: "The relationship between the body and the soul is the result of benevolent life."},
     { text: "Love begets the life of love for others And amity of excellence it yields.", meaning: "From love always springs affection and that gives excellent friendship."},
     { text: "Joy on earth and bliss in heaven above Are the fruits of domestic life of love.", meaning: "Joy on earth and bliss in heaven are certainly the fruits of life of love."},
-    { text: "\'Love helps only virtue\', say the unwise It also guards us from all evils. ", meaning: "The ignorant say that love helps virtue alone but it also guards us against all evils."}
+    { text: "\'Love helps only virtue\', say the unwise It also guards us from all evils. ", meaning: "The ignorant say that love helps virtue alone but it also guards us against all evils."},
+    { text: "As the sun burns the boneless worms Virtue torments the loveless ones.", meaning: "As the sun burns the boneless worms, virtue tortures the loveless."},
+    { text: "Life bereft of love is like a tree sapless Sprouting in utter barrenness.", meaning: "To prosper in life without love is as impossible as a dead tree sprouting in a barren desert."},
+    { text: "Of what avail is the body\'s every outward part If there\'s no love within the heart.", meaning: "The external organs of one\'s body are of no use if one\'s heart is devoid of love."},
+    { text: "The soul of life is only the love within humans Sans love man\'s body is but skin and bones.", meaning: "Love is the substance and soul of life. Without it, a man is a mere frame of bones covered with skin."}
+
+    //9. Hospitality.
     
 ];
 
