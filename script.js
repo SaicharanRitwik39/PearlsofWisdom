@@ -91,7 +91,7 @@ const quotes = [
     { text: "As the sun burns the boneless worms Virtue torments the loveless ones.", meaning: "As the sun burns the boneless worms, virtue tortures the loveless."},
     { text: "Life bereft of love is like a tree sapless Sprouting in utter barrenness.", meaning: "To prosper in life without love is as impossible as a dead tree sprouting in a barren desert."},
     { text: "Of what avail is the body\'s every outward part If there\'s no love within the heart.", meaning: "The external organs of one\'s body are of no use if one\'s heart is devoid of love."},
-    { text: "The soul of life is only the love within humans Sans love man\'s body is but skin and bones.", meaning: "Love is the substance and soul of life. Without it, a man is a mere frame of bones covered with skin."}
+    { text: "The soul of life is only the love within humans Sans love man\'s body is but skin and bones.", meaning: "Love is the substance and soul of life. Without it, a man is a mere frame of bones covered with skin."},
 
     //9. Hospitality.
     { text: "Keeping home and guarding riches Is to help and entertain guests.", meaning: "The purpose of leading a domestic life and protecting wealth is to serve guests."},
