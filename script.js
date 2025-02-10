@@ -94,6 +94,9 @@ const quotes = [
     { text: "The soul of life is only the love within humans Sans love man\'s body is but skin and bones.", meaning: "Love is the substance and soul of life. Without it, a man is a mere frame of bones covered with skin."}
 
     //9. Hospitality.
+    { text: "Keeping home and guarding riches Is to help and entertain guests.", meaning: "The purpose of leading a domestic life and protecting wealth is to serve guests."},
+    { text: "To keep out the guests is really bitter Even while eating divine nectar.", meaning: "It is undesirable to eat even divine nectar without sharing it with the guests."},
+    { text: "One who daily entertains guests Never suffers from wants.", meaning: "The life of one who entertains guests everyday will never suffer from poverty."}
     
 ];
 
