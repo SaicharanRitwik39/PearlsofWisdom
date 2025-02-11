@@ -96,7 +96,10 @@ const quotes = [
     //9. Hospitality.
     { text: "Keeping home and guarding riches Is to help and entertain guests.", meaning: "The purpose of leading a domestic life and protecting wealth is to serve guests."},
     { text: "To keep out the guests is really bitter Even while eating divine nectar.", meaning: "It is undesirable to eat even divine nectar without sharing it with the guests."},
-    { text: "One who daily entertains guests Never suffers from wants.", meaning: "The life of one who entertains guests everyday will never suffer from poverty."}
+    { text: "One who daily entertains guests Never suffers from wants.", meaning: "The life of one who entertains guests everyday will never suffer from poverty."},
+    { text: "Goddess of fortune gladly dwells in that house Where guests are greeted with smiling face.", meaning: "Fortune smiles on the house of one who entertains worthy guests with cheerful face."},
+    { text: "Who feeds guests before he eats Need not even sow his fields.", meaning: "He who eats after entertaining guests will reap a harvest even without sowing the fields."},
+    { text: "Who hosts guests and waits for the next Is, in heaven, an honoured guest.", meaning: "He who receives guests one after another will be an honoured guest in heaven."}
     
 ];
 
