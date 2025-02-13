@@ -103,9 +103,12 @@ const quotes = [
     { text: "It\'s hard to assess the gains of hospitality It lies in the worth of guests in reality.", meaning: "The value of hospitality depends entirely on the value of deserving guests."},
     { text: "Who shun the joy of hospitality will weep \'We hoarded and lost none to help.", meaning: "Who never entertain guests are those who hoarded hard earned wealth and lost it with none to support."},
     { text: "Poverty amidst plenty it to have no guests Such stupidity belongs to idiots.", meaning: "Lack of hospitality is poverty in prosperity. Such type of foolishness is found only among fools."},
-    { text: "Anicham withers when smelt Cold look withers the guest.", meaning: "On seeing the cold look of the host, the face of the guest withers like the anicham that withers when smelt."}
+    { text: "Anicham withers when smelt Cold look withers the guest.", meaning: "On seeing the cold look of the host, the face of the guest withers like the anicham that withers when smelt."},
 
     //10. Speaking Sweetly.
+    { text: "The words uttered by the righteous Are sweet, kind and guileless.", meaning: "The virtuous speak only sweet and tender words devoid of deceit."},
+    { text: "Kind words with a smiling face Are better than gifts of grace.", meaning: "It is better to speak nice words with a sweet smiling face than giving gracious gifts."},
+    { text: "Smiling face, loving eyes and kind words - Virtue lies in these signs.", meaning: "Smiling face, loving eyes and sweet words are the signs of virtue."}
     
 ];
 
