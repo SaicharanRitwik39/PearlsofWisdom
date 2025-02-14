@@ -108,7 +108,10 @@ const quotes = [
     //10. Speaking Sweetly.
     { text: "The words uttered by the righteous Are sweet, kind and guileless.", meaning: "The virtuous speak only sweet and tender words devoid of deceit."},
     { text: "Kind words with a smiling face Are better than gifts of grace.", meaning: "It is better to speak nice words with a sweet smiling face than giving gracious gifts."},
-    { text: "Smiling face, loving eyes and kind words - Virtue lies in these signs.", meaning: "Smiling face, loving eyes and sweet words are the signs of virtue."}
+    { text: "Smiling face, loving eyes and kind words - Virtue lies in these signs.", meaning: "Smiling face, loving eyes and sweet words are the signs of virtue."},
+    { text: "Painful poverty will never embrace those Who with sweet words cheer others.", meaning: "Those who speak sweet words and delight everyone will never suffer the agony of poverty."},
+    { text: "Humility and sweet words are one\'s jewels All others are not at all jewels.", meaning: "Humility and sweet words alone are real jewels. All others are not jewels."},
+    { text: "When fruitful words bubble with kindness Evils diminish and virtue augments.", meaning: "Useful words uttered with kindness reduce all evils and increase virtue."}
     
 ];
 
