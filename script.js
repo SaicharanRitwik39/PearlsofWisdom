@@ -111,7 +111,13 @@ const quotes = [
     { text: "Smiling face, loving eyes and kind words - Virtue lies in these signs.", meaning: "Smiling face, loving eyes and sweet words are the signs of virtue."},
     { text: "Painful poverty will never embrace those Who with sweet words cheer others.", meaning: "Those who speak sweet words and delight everyone will never suffer the agony of poverty."},
     { text: "Humility and sweet words are one\'s jewels All others are not at all jewels.", meaning: "Humility and sweet words alone are real jewels. All others are not jewels."},
-    { text: "When fruitful words bubble with kindness Evils diminish and virtue augments.", meaning: "Useful words uttered with kindness reduce all evils and increase virtue."}
+    { text: "When fruitful words bubble with kindness Evils diminish and virtue augments.", meaning: "Useful words uttered with kindness reduce all evils and increase virtue."},
+    { text: "Fruitful, polite and pleasant words Beget happiness and fortunes.", meaning: "Useful, courteous and pleasant words bring happiness and prosperity."},
+    { text: "Sweet words without meanness cheer The life here and hereafter.", meaning: "Sweet words without meanness delight this life and the life in the other world."},
+    { text: "Knowing well the pleasure of sweet words Why cast bitter ones at others?", meaning: "A man should not use harsh words knowing well that sweet words give happiness."},
+    { text: "Using bitter words instead of pleasant words Is like preferring unripe fruits to ripe ones.", meaning: "Using bitter words in place of sweet ones is like choosing unripe fruits instead of ripe ones."}
+
+    //11. Gratitude.
     
 ];
 
