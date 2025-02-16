@@ -115,9 +115,12 @@ const quotes = [
     { text: "Fruitful, polite and pleasant words Beget happiness and fortunes.", meaning: "Useful, courteous and pleasant words bring happiness and prosperity."},
     { text: "Sweet words without meanness cheer The life here and hereafter.", meaning: "Sweet words without meanness delight this life and the life in the other world."},
     { text: "Knowing well the pleasure of sweet words Why cast bitter ones at others?", meaning: "A man should not use harsh words knowing well that sweet words give happiness."},
-    { text: "Using bitter words instead of pleasant words Is like preferring unripe fruits to ripe ones.", meaning: "Using bitter words in place of sweet ones is like choosing unripe fruits instead of ripe ones."}
+    { text: "Using bitter words instead of pleasant words Is like preferring unripe fruits to ripe ones.", meaning: "Using bitter words in place of sweet ones is like choosing unripe fruits instead of ripe ones."},
 
     //11. Gratitude.
+    { text: "From heaven and earth will be a scant reward For a help from one never rewarded.", meaning: "Heaven and earth are not adequate for the help received from one who has never been helped."},
+    { text: "A timely help though small in worth Is greater than the earth.", meaning: "A timely help, however small, is greater in worth than the world."},
+    { text: "Help rendered without expecting benefits Is greater than the sea in its goodness.", meaning: "Help rendered without any expectation is greater than the sea in its goodness."}
     
 ];
 
