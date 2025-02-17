@@ -120,7 +120,10 @@ const quotes = [
     //11. Gratitude.
     { text: "From heaven and earth will be a scant reward For a help from one never rewarded.", meaning: "Heaven and earth are not adequate for the help received from one who has never been helped."},
     { text: "A timely help though small in worth Is greater than the earth.", meaning: "A timely help, however small, is greater in worth than the world."},
-    { text: "Help rendered without expecting benefits Is greater than the sea in its goodness.", meaning: "Help rendered without any expectation is greater than the sea in its goodness."}
+    { text: "Help rendered without expecting benefits Is greater than the sea in its goodness.", meaning: "Help rendered without any expectation is greater than the sea in its goodness."},
+    { text: "Though the help received is millet small The worthy deem it palm-tree tall.", meaning: "Help received, though very small, is considered great by the worthy."},
+    { text: "Help given is not measured by its measure It depends on the worth of the receiver.", meaning: "The value of help depends not on the amount but on the worth of the receiver."},
+    { text: "Never forget the friendship of the pure ones And never desert the timely helpers.", meaning: "People should neither forget the friendship of the blameless nor desert those who helped them in distress."}
     
 ];
 
