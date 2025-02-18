@@ -123,7 +123,13 @@ const quotes = [
     { text: "Help rendered without expecting benefits Is greater than the sea in its goodness.", meaning: "Help rendered without any expectation is greater than the sea in its goodness."},
     { text: "Though the help received is millet small The worthy deem it palm-tree tall.", meaning: "Help received, though very small, is considered great by the worthy."},
     { text: "Help given is not measured by its measure It depends on the worth of the receiver.", meaning: "The value of help depends not on the amount but on the worth of the receiver."},
-    { text: "Never forget the friendship of the pure ones And never desert the timely helpers.", meaning: "People should neither forget the friendship of the blameless nor desert those who helped them in distress."}
+    { text: "Never forget the friendship of the pure ones And never desert the timely helpers.", meaning: "People should neither forget the friendship of the blameless nor desert those who helped them in distress."},
+    { text: "The good will remember in all seven births Amity of those who dispelled their distress.", meaning: "The great will remember in all seven births the friendship of those who helped them in their distress."},
+    { text: "Forgetting the good is no good but it\'s good To forget at once what is no good.", meaning: "It is improper to forget the good deeds done to us. But it is good to forget the wrong deeds at once."},
+    { text: "Even a death-like harm becomes nullified At the thought of one favour obtained.", meaning: "By remembering one help rendered, even a dreadful harm is forgotten."},
+    { text: "There is escape from sin even for virtue-killers But not for gratitude-killers.", meaning: "There is scope even for those who have killed every virtue but not for those who have killed gratitude."}
+
+    //12. Impartiality.
     
 ];
 
