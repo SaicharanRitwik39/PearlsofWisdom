@@ -127,9 +127,12 @@ const quotes = [
     { text: "The good will remember in all seven births Amity of those who dispelled their distress.", meaning: "The great will remember in all seven births the friendship of those who helped them in their distress."},
     { text: "Forgetting the good is no good but it\'s good To forget at once what is no good.", meaning: "It is improper to forget the good deeds done to us. But it is good to forget the wrong deeds at once."},
     { text: "Even a death-like harm becomes nullified At the thought of one favour obtained.", meaning: "By remembering one help rendered, even a dreadful harm is forgotten."},
-    { text: "There is escape from sin even for virtue-killers But not for gratitude-killers.", meaning: "There is scope even for those who have killed every virtue but not for those who have killed gratitude."}
+    { text: "There is escape from sin even for virtue-killers But not for gratitude-killers.", meaning: "There is scope even for those who have killed every virtue but not for those who have killed gratitude."},
 
     //12. Impartiality.
+    { text: "Impartiality is indeed a virtue If all men get their fair due.", meaning: "Justice is a great virtue that gives impartial treatment to everyone."},
+    { text: "An impartial man\'s wealth eternally helps As a security to his race.", meaning: "An impartial man\'s wealth is an imperishable security to his future generations."},
+    { text: "Swiftly abandon wealth got thro\' unjust means Even though good it yields.", meaning: "One should shun the wealth that comes through unjust means whatever good it may bring."}
     
 ];
 
