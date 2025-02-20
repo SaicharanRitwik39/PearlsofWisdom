@@ -132,7 +132,10 @@ const quotes = [
     //12. Impartiality.
     { text: "Impartiality is indeed a virtue If all men get their fair due.", meaning: "Justice is a great virtue that gives impartial treatment to everyone."},
     { text: "An impartial man\'s wealth eternally helps As a security to his race.", meaning: "An impartial man\'s wealth is an imperishable security to his future generations."},
-    { text: "Swiftly abandon wealth got thro\' unjust means Even though good it yields.", meaning: "One should shun the wealth that comes through unjust means whatever good it may bring."}
+    { text: "Swiftly abandon wealth got thro\' unjust means Even though good it yields.", meaning: "One should shun the wealth that comes through unjust means whatever good it may bring."},
+    { text: "The just and unjust are understood By what they leave behind.", meaning: "Whether people are just or unjust is always known by theor deeds."},
+    { text: "Loss and gain are common; but equity in heart Is the jewel of the perfect.", meaning: "Loss and gain are quite natural in life. But a balanced mind is the ornament of the great."},
+    { text: "When the mind swerves from justice to sin One should realize the impending ruin.", meaning: "One who deviates from the path of justice and does evil will certainly be ruined."}
     
 ];
 
