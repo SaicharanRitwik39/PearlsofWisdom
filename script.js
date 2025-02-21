@@ -135,7 +135,13 @@ const quotes = [
     { text: "Swiftly abandon wealth got thro\' unjust means Even though good it yields.", meaning: "One should shun the wealth that comes through unjust means whatever good it may bring."},
     { text: "The just and unjust are understood By what they leave behind.", meaning: "Whether people are just or unjust is always known by theor deeds."},
     { text: "Loss and gain are common; but equity in heart Is the jewel of the perfect.", meaning: "Loss and gain are quite natural in life. But a balanced mind is the ornament of the great."},
-    { text: "When the mind swerves from justice to sin One should realize the impending ruin.", meaning: "One who deviates from the path of justice and does evil will certainly be ruined."}
+    { text: "When the mind swerves from justice to sin One should realize the impending ruin.", meaning: "One who deviates from the path of justice and does evil will certainly be ruined."},
+    { text: "A just and virtuous man\'s poverty Is not seen as evil by humanity.", meaning: "The world will not consider the poverty of an impartial and virtuous man as an evil."},
+    { text: "Not being one-sided like an even balance Is an ornament to the wise.", meaning: "Being unbiased like an even balance is a jewel to great men."},
+    { text: "Equity is words fully unbiased Coming from a poised mind.", meaning: "Equity meand words without bias that come from a firm and unbiased mind."},
+    { text: "Tending other\'s goods as his own Is a merchant\'s best transaction.", meaning: "Treating the goods of others as his own is a mark of good trade."}
+
+    //13. Self-Control.
     
 ];
 
