@@ -139,9 +139,13 @@ const quotes = [
     { text: "A just and virtuous man\'s poverty Is not seen as evil by humanity.", meaning: "The world will not consider the poverty of an impartial and virtuous man as an evil."},
     { text: "Not being one-sided like an even balance Is an ornament to the wise.", meaning: "Being unbiased like an even balance is a jewel to great men."},
     { text: "Equity is words fully unbiased Coming from a poised mind.", meaning: "Equity meand words without bias that come from a firm and unbiased mind."},
-    { text: "Tending other\'s goods as his own Is a merchant\'s best transaction.", meaning: "Treating the goods of others as his own is a mark of good trade."}
+    { text: "Tending other\'s goods as his own Is a merchant\'s best transaction.", meaning: "Treating the goods of others as his own is a mark of good trade."},
 
     //13. Self-Control.
+    { text: "Self-control will place one among gods Lack of it sinks one into a life of evils.", meaning: "Self-control places one among gods. Lack of it throws one into a life of miseries."},
+    { text: "Cherish and safeguard the wealth of self-control No fortune is greater than that to a living soul.", meaning: "One must cherish self-control as a great treasure, for there is no greater wealth to man than that."},
+    { text: "Self-control guided by wisdom Fetches everlasting fame.", meaning: "Self-controlled life guided by wisdom brings fame that lasts forever."},
+    { text: "Who is firmly fixed in self-restraint Is far greater than a mount.", meaning: "A man who practises self-control is greater than the greatness and firmness of a mountain."}
     
 ];
 
