@@ -145,8 +145,9 @@ const quotes = [
     { text: "Self-control will place one among gods Lack of it sinks one into a life of evils.", meaning: "Self-control places one among gods. Lack of it throws one into a life of miseries."},
     { text: "Cherish and safeguard the wealth of self-control No fortune is greater than that to a living soul.", meaning: "One must cherish self-control as a great treasure, for there is no greater wealth to man than that."},
     { text: "Self-control guided by wisdom Fetches everlasting fame.", meaning: "Self-controlled life guided by wisdom brings fame that lasts forever."},
-    { text: "Who is firmly fixed in self-restraint Is far greater than a mount.", meaning: "A man who practises self-control is greater than the greatness and firmness of a mountain."}
-    
+    { text: "Who is firmly fixed in self-restraint Is far greater than a mount.", meaning: "A man who practises self-control is greater than the greatness and firmness of a mountain."},
+    { text: "Humility is surely a great virtue for one and all To the wealthy it is another wealth above all.", meaning: "Humility is certainly good for all. It is an added grace to the wealthy."},
+    { text: "Restrain five senses in one birth like a tortoise You\'ll be guarded in all seven births.", meaning: "Those who control their five senses like a tortoise in one birth are guarded in all seven births."}
 ];
 
 function displayQuote() {
