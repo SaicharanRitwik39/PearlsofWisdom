@@ -147,7 +147,14 @@ const quotes = [
     { text: "Self-control guided by wisdom Fetches everlasting fame.", meaning: "Self-controlled life guided by wisdom brings fame that lasts forever."},
     { text: "Who is firmly fixed in self-restraint Is far greater than a mount.", meaning: "A man who practises self-control is greater than the greatness and firmness of a mountain."},
     { text: "Humility is surely a great virtue for one and all To the wealthy it is another wealth above all.", meaning: "Humility is certainly good for all. It is an added grace to the wealthy."},
-    { text: "Restrain five senses in one birth like a tortoise You\'ll be guarded in all seven births.", meaning: "Those who control their five senses like a tortoise in one birth are guarded in all seven births."}
+    { text: "Restrain five senses in one birth like a tortoise You\'ll be guarded in all seven births.", meaning: "Those who control their five senses like a tortoise in one birth are guarded in all seven births."},
+    { text: "Control your tongue if not anything; otherwise A slip of tongue brings evils.", meaning: "Holding one\'s tongue is very important because a slip of the tongue will bring sufferings."},
+    { text: "A single harmful word uttered Turns all good things bad.", meaning: "Uttering even a single harmful word will surely spoil all the goodness."},
+    { text: "Fire-burns will certainly heal inside Tongue-burns won\'t but abide.", meaning: "The wounds caused by fire will heal. But scars caused by stinging words will never leave."},
+    { text: "Virtue seeks a chance to meet the soul With no ire, but lore and self-control.", meaning: "A man of learning and self-control who is free from anger will be blessed by the god of virtue."}
+
+    //14. Discipline.
+    
 ];
 
 function displayQuote() {
