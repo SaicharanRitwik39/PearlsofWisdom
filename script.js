@@ -151,10 +151,12 @@ const quotes = [
     { text: "Control your tongue if not anything; otherwise A slip of tongue brings evils.", meaning: "Holding one\'s tongue is very important because a slip of the tongue will bring sufferings."},
     { text: "A single harmful word uttered Turns all good things bad.", meaning: "Uttering even a single harmful word will surely spoil all the goodness."},
     { text: "Fire-burns will certainly heal inside Tongue-burns won\'t but abide.", meaning: "The wounds caused by fire will heal. But scars caused by stinging words will never leave."},
-    { text: "Virtue seeks a chance to meet the soul With no ire, but lore and self-control.", meaning: "A man of learning and self-control who is free from anger will be blessed by the god of virtue."}
+    { text: "Virtue seeks a chance to meet the soul With no ire, but lore and self-control.", meaning: "A man of learning and self-control who is free from anger will be blessed by the god of virtue."},
 
     //14. Discipline.
-    
+    { text: "As discipline leads to dignity in life Guard discipline above life.", meaning: "Discipline brings honour. So, it should be cherished more precious than life."},
+    { text: "Virtuous conduct is a man\'s prime aid It\'s to be guarded with wary mind.", meaning: "One should excel in good conduct and take pains to cultivate and guard it."},
+    { text: "Good conduct is the sign of noble birth Bad conduct is the sign of low birth.", meaning: "Discipline is a sign of noble birth. Indiscipline indicates mean birth."}
 ];
 
 function displayQuote() {
