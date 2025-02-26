@@ -156,7 +156,11 @@ const quotes = [
     //14. Discipline.
     { text: "As discipline leads to dignity in life Guard discipline above life.", meaning: "Discipline brings honour. So, it should be cherished more precious than life."},
     { text: "Virtuous conduct is a man\'s prime aid It\'s to be guarded with wary mind.", meaning: "One should excel in good conduct and take pains to cultivate and guard it."},
-    { text: "Good conduct is the sign of noble birth Bad conduct is the sign of low birth.", meaning: "Discipline is a sign of noble birth. Indiscipline indicates mean birth."}
+    { text: "Good conduct is the sign of noble birth Bad conduct is the sign of low birth.", meaning: "Discipline is a sign of noble birth. Indiscipline indicates mean birth."},
+    { text: "The wise can learn the forgotten lore again But loss of good conduct leads to ruin.", meaning: "If the wise forget the past learning, they can learn it again. But loss of discipline leads to ruin."},
+    { text: "Just as jealous have no prosperity The indecent have no dignity.", meaning: "The envious do not prosper. Likewise, the indecent never achieve greatness."},
+    { text: "Knowing well the disgrace of indiscipline The stable waver not from discipline.", meaning: "The disciplined will not deviate from virtues as they know the evil effects of bad conduct."},
+    { text: "Good conduct ever brings great honour Bad conduct ends in great dishonour.", meaning: "Good conduct brings greatness and bad conduct brings utter disgrace."}
 ];
 
 function displayQuote() {
