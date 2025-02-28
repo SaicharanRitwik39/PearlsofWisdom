@@ -160,7 +160,13 @@ const quotes = [
     { text: "The wise can learn the forgotten lore again But loss of good conduct leads to ruin.", meaning: "If the wise forget the past learning, they can learn it again. But loss of discipline leads to ruin."},
     { text: "Just as jealous have no prosperity The indecent have no dignity.", meaning: "The envious do not prosper. Likewise, the indecent never achieve greatness."},
     { text: "Knowing well the disgrace of indiscipline The stable waver not from discipline.", meaning: "The disciplined will not deviate from virtues as they know the evil effects of bad conduct."},
-    { text: "Good conduct ever brings great honour Bad conduct ends in great dishonour.", meaning: "Good conduct brings greatness and bad conduct brings utter disgrace."}
+    { text: "Good conduct ever brings great honour Bad conduct ends in great dishonour.", meaning: "Good conduct brings greatness and bad conduct brings utter disgrace."},
+    { text: "Noble character is the seed of righteousness Ignoble character brings ills endless.", meaning: "Good conduct is the seed of virtuous deeds. Bad conduct leads to endless distress."},
+    { text: "It\'s hard for men of virtuous conduct to utter Even by a slip, words of evil nature.", meaning: "Men of rigtheous conduct never utter evil words even by a slip of the tongue."},
+    { text: "Who cannot live in harmony with the world Though learned, are fools indeed.", meaning: "Those who cannot live in harmony with the world are fools though they are learned."}
+
+    //16. Tolerance.
+    
 ];
 
 function displayQuote() {
