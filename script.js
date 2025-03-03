@@ -163,9 +163,13 @@ const quotes = [
     { text: "Good conduct ever brings great honour Bad conduct ends in great dishonour.", meaning: "Good conduct brings greatness and bad conduct brings utter disgrace."},
     { text: "Noble character is the seed of righteousness Ignoble character brings ills endless.", meaning: "Good conduct is the seed of virtuous deeds. Bad conduct leads to endless distress."},
     { text: "It\'s hard for men of virtuous conduct to utter Even by a slip, words of evil nature.", meaning: "Men of rigtheous conduct never utter evil words even by a slip of the tongue."},
-    { text: "Who cannot live in harmony with the world Though learned, are fools indeed.", meaning: "Those who cannot live in harmony with the world are fools though they are learned."}
+    { text: "Who cannot live in harmony with the world Though learned, are fools indeed.", meaning: "Those who cannot live in harmony with the world are fools though they are learned."},
 
     //16. Tolerance.
+    { text: "Chief of virtues is to bear with revilers Just as the earth bears its diggers.", meaning: "Chief of all virtues is to tolerate the insults of others just as the earth tolerates the diggers."},
+    { text: "To bear with others\' evil is a good trait Better it is to forget it.", meaning: "Tolerance of intolerable wrongs is good. Forgetting such deeds is definitely better."},
+    { text: "To disregard hosting of guests is want of want  To endure fools is might of might.", meaning: "Lack of hospitality is the worst form of poverty. To bear with fools is the greatest strength."},
+    { text: "Practise and preserve patience TO retain one'\s perfectness.", meaning: "One should always practise patience if he likes to retain his perfectness."}    
     
 ];
 
