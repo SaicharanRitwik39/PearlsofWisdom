@@ -169,7 +169,10 @@ const quotes = [
     { text: "Chief of virtues is to bear with revilers Just as the earth bears its diggers.", meaning: "Chief of all virtues is to tolerate the insults of others just as the earth tolerates the diggers."},
     { text: "To bear with others\' evil is a good trait Better it is to forget it.", meaning: "Tolerance of intolerable wrongs is good. Forgetting such deeds is definitely better."},
     { text: "To disregard hosting of guests is want of want  To endure fools is might of might.", meaning: "Lack of hospitality is the worst form of poverty. To bear with fools is the greatest strength."},
-    { text: "Practise and preserve patience TO retain one'\s perfectness.", meaning: "One should always practise patience if he likes to retain his perfectness."}    
+    { text: "Practise and preserve patience TO retain one'\s perfectness.", meaning: "One should always practise patience if he likes to retain his perfectness."},
+    { text: "Who punish the offenders are despised Who forbear are esteemed like gold.", meaning: "The world will not respect the avengers but regard the tolerant as gold."},
+    { text: "Avenger\'s joy lasts only for one day Forgiver\'s fame stays till Doomsday.", meaning: "Retaliation gives only a momentary joy. But forbearance gives everlasting glory."},
+    { text: "Though others do intolerable harm, pity them And better it is to do no evil to them.", meaning: "Even if others do the worst evil to one, it is better to avoid doing evil to them."}
     
 ];
 
