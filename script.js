@@ -172,7 +172,12 @@ const quotes = [
     { text: "Practise and preserve patience TO retain one'\s perfectness.", meaning: "One should always practise patience if he likes to retain his perfectness."},
     { text: "Who punish the offenders are despised Who forbear are esteemed like gold.", meaning: "The world will not respect the avengers but regard the tolerant as gold."},
     { text: "Avenger\'s joy lasts only for one day Forgiver\'s fame stays till Doomsday.", meaning: "Retaliation gives only a momentary joy. But forbearance gives everlasting glory."},
-    { text: "Though others do intolerable harm, pity them And better it is to do no evil to them.", meaning: "Even if others do the worst evil to one, it is better to avoid doing evil to them."}
+    { text: "Though others do intolerable harm, pity them And better it is to do no evil to them.", meaning: "Even if others do the worst evil to one, it is better to avoid doing evil to them."},
+    { text: "Conquer men who do evils by arrogance Simply by your tolerance.", meaning: "With tolerance one should conquer those who do harm due to their haugtiness."},
+    { text: "Who forbear evil words of the unrighteous Are far purer than ascetics.", meaning: "Those who tolerate the rude remarks of the unjust are purer than the ascetics."},
+    { text: "Better are they who endure bitter insults Than those who fast and do penance.", meaning: "Those who endure insults are better than those who do penance by fasting."}
+
+    //17. Not envying.
     
 ];
 
