@@ -175,9 +175,13 @@ const quotes = [
     { text: "Though others do intolerable harm, pity them And better it is to do no evil to them.", meaning: "Even if others do the worst evil to one, it is better to avoid doing evil to them."},
     { text: "Conquer men who do evils by arrogance Simply by your tolerance.", meaning: "With tolerance one should conquer those who do harm due to their haugtiness."},
     { text: "Who forbear evil words of the unrighteous Are far purer than ascetics.", meaning: "Those who tolerate the rude remarks of the unjust are purer than the ascetics."},
-    { text: "Better are they who endure bitter insults Than those who fast and do penance.", meaning: "Those who endure insults are better than those who do penance by fasting."}
+    { text: "Better are they who endure bitter insults Than those who fast and do penance.", meaning: "Those who endure insults are better than those who do penance by fasting."},
 
     //17. Not envying.
+    { text: "Value the unenvying nature of the heart As the code of good conduct.", meaning: "One should value the unenvying nature of the heart as the discipline way of life."},
+    { text: "Of all the goodness nothing can equal Being free from envy of one and all.", meaning: "Among all precious possessions nothing is equal to the state of being free from envy."},
+    { text: "Who loves not virtue and wealth Alone envies other\'s wealth.", meaning: "One who does not desire virtue and wealth alone will envy other\'s wealth."},
+    { text: "Who know that envy causes misery Will do no wrong out of envy.", meaning: "Those who know that envy causes sufferings will never do evil out of envy."}
     
 ];
 
